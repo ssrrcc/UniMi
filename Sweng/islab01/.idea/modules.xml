@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/islab01.iml" filepath="$PROJECT_DIR$/islab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/islab01_main.iml" filepath="$PROJECT_DIR$/.idea/modules/islab01_main.iml" group="islab01" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/islab01_test.iml" filepath="$PROJECT_DIR$/.idea/modules/islab01_test.iml" group="islab01" />
+    </modules>
+  </component>
+</project>
